@@ -1,8 +1,8 @@
-# Final-Project---Digital-Concept-Tutorial
+# Final-Project  Digital Concept Tutorial
 
-# How to Use Email on Your Computer
+# How to Install OBS Studio on Your Computer
 **Author:** John Doss 
 
-**Purpose:** This tutorial will guide you through setting up and using email on your computer.  
+**Purpose:** This tutorial will guide you through the process of downloading and installing OBS Studio on your computer. 
 
-**Target Audience:** Older adults with no prior knowledge of email.
+**Target Audience:** Older adults who are new to installing software and want to get started with video recording or streaming.
