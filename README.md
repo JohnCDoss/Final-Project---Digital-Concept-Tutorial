@@ -9,7 +9,7 @@
 
 
 
-## Table of Contents
+### Table of Contents
 1. [Downloading OBS Studio](downloading-obs.md)
 2. [Installing OBS Studio on Windows](installing-obs-windows.md)
 3. [Setting Up OBS Studio](setting-up-obs.md)
