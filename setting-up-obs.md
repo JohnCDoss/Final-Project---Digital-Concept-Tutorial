@@ -8,3 +8,5 @@ After installing OBS Studio, follow these steps to get started with your first r
 
 ## Conclusion:
 Now you've installed and set up OBS Studio on your computer! You're ready to start recording or streaming. Have fun creating content!
+
+[Previous Page](installing-obs-windows.md)  [Back to First Page](README.md)
