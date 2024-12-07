@@ -15,4 +15,4 @@
 3. [Setting Up OBS Studio](setting-up-obs.md)
 
 
-[Next Page](downloading=bos.md)
+[Next Page](downloading-obs.md)
