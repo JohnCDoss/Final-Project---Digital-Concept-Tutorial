@@ -8,4 +8,4 @@ To get started, you need to download the OBS Studio software.
 5. Choose the version of OBS Studio that matches your operating system (Windows, macOS, or Linux).
 
 
-[Previous Page](README.md)  [Next Page](installing-obs.md)
+[Previous Page](README.md)  [Next Page](installing-obs-windows.md)
